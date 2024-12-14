@@ -28,101 +28,95 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewCheckOut = new System.Windows.Forms.DataGridView();
+            this.TenKH = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaDatPhong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SoCCCD = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NgayDatPhong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NgayTraPhong = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TinhTrangThanhToan = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCheckOut)).BeginInit();
             this.SuspendLayout();
             // 
-            // dataGridView1
+            // dataGridViewCheckOut
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Column1,
-            this.Column2,
-            this.Column3,
-            this.Column4,
-            this.Column5,
-            this.Column6});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 3);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(772, 358);
-            this.dataGridView1.TabIndex = 2;
+            this.dataGridViewCheckOut.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewCheckOut.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.TenKH,
+            this.MaDatPhong,
+            this.SoCCCD,
+            this.NgayDatPhong,
+            this.NgayTraPhong,
+            this.TinhTrangThanhToan});
+            this.dataGridViewCheckOut.Location = new System.Drawing.Point(12, 3);
+            this.dataGridViewCheckOut.Name = "dataGridViewCheckOut";
+            this.dataGridViewCheckOut.RowHeadersWidth = 51;
+            this.dataGridViewCheckOut.RowTemplate.Height = 24;
+            this.dataGridViewCheckOut.Size = new System.Drawing.Size(772, 358);
+            this.dataGridViewCheckOut.TabIndex = 2;
+            this.dataGridViewCheckOut.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCheckOut_CellContentClick);
             // 
-            // Column1
+            // TenKH
             // 
-            this.Column1.HeaderText = "Tên KH";
-            this.Column1.MinimumWidth = 6;
-            this.Column1.Name = "Column1";
-            this.Column1.Width = 125;
+            this.TenKH.HeaderText = "Tên KH";
+            this.TenKH.MinimumWidth = 6;
+            this.TenKH.Name = "TenKH";
+            this.TenKH.Width = 125;
             // 
-            // Column2
+            // MaDatPhong
             // 
-            this.Column2.HeaderText = "Mã đặt phòng";
-            this.Column2.MinimumWidth = 6;
-            this.Column2.Name = "Column2";
-            this.Column2.Width = 125;
+            this.MaDatPhong.HeaderText = "Mã đặt phòng";
+            this.MaDatPhong.MinimumWidth = 6;
+            this.MaDatPhong.Name = "MaDatPhong";
+            this.MaDatPhong.Width = 125;
             // 
-            // Column3
+            // SoCCCD
             // 
-            this.Column3.HeaderText = "Số CCCD";
-            this.Column3.MinimumWidth = 6;
-            this.Column3.Name = "Column3";
-            this.Column3.Width = 125;
+            this.SoCCCD.HeaderText = "Số CCCD";
+            this.SoCCCD.MinimumWidth = 6;
+            this.SoCCCD.Name = "SoCCCD";
+            this.SoCCCD.Width = 125;
             // 
-            // Column4
+            // NgayDatPhong
             // 
-            this.Column4.HeaderText = "Ngày đặt phòng";
-            this.Column4.MinimumWidth = 6;
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 125;
+            this.NgayDatPhong.HeaderText = "Ngày đặt phòng";
+            this.NgayDatPhong.MinimumWidth = 6;
+            this.NgayDatPhong.Name = "NgayDatPhong";
+            this.NgayDatPhong.Width = 125;
             // 
-            // Column5
+            // NgayTraPhong
             // 
-            this.Column5.HeaderText = "Ngày trả phòng";
-            this.Column5.MinimumWidth = 6;
-            this.Column5.Name = "Column5";
-            this.Column5.Width = 125;
+            this.NgayTraPhong.HeaderText = "Ngày trả phòng";
+            this.NgayTraPhong.MinimumWidth = 6;
+            this.NgayTraPhong.Name = "NgayTraPhong";
+            this.NgayTraPhong.Width = 125;
             // 
-            // Column6
+            // TinhTrangThanhToan
             // 
-            this.Column6.HeaderText = "Tình trạng thanh toán";
-            this.Column6.MinimumWidth = 6;
-            this.Column6.Name = "Column6";
-            this.Column6.Width = 125;
+            this.TinhTrangThanhToan.HeaderText = "Tình trạng thanh toán";
+            this.TinhTrangThanhToan.MinimumWidth = 6;
+            this.TinhTrangThanhToan.Name = "TinhTrangThanhToan";
+            this.TinhTrangThanhToan.Width = 125;
             // 
             // simpleButton3
             // 
-            this.simpleButton3.Location = new System.Drawing.Point(549, 370);
+            this.simpleButton3.Location = new System.Drawing.Point(401, 370);
             this.simpleButton3.Name = "simpleButton3";
             this.simpleButton3.Size = new System.Drawing.Size(214, 52);
             this.simpleButton3.TabIndex = 8;
             this.simpleButton3.Text = "Xoá";
-            // 
-            // simpleButton2
-            // 
-            this.simpleButton2.Location = new System.Drawing.Point(292, 370);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(214, 52);
-            this.simpleButton2.TabIndex = 7;
-            this.simpleButton2.Text = "Cập nhật";
+            this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
             // 
             // simpleButton1
             // 
-            this.simpleButton1.Location = new System.Drawing.Point(32, 370);
+            this.simpleButton1.Location = new System.Drawing.Point(129, 370);
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.Size = new System.Drawing.Size(214, 52);
             this.simpleButton1.TabIndex = 9;
             this.simpleButton1.Text = "Thêm mới";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // frm_dscheck_out
             // 
@@ -131,26 +125,25 @@
             this.ClientSize = new System.Drawing.Size(793, 434);
             this.Controls.Add(this.simpleButton1);
             this.Controls.Add(this.simpleButton3);
-            this.Controls.Add(this.simpleButton2);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dataGridViewCheckOut);
             this.Name = "frm_dscheck_out";
             this.Text = "DS Check out";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.Load += new System.EventHandler(this.frm_dscheck_out_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCheckOut)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
+        private System.Windows.Forms.DataGridView dataGridViewCheckOut;
         private DevExpress.XtraEditors.SimpleButton simpleButton3;
-        private DevExpress.XtraEditors.SimpleButton simpleButton2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenKH;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaDatPhong;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SoCCCD;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NgayDatPhong;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NgayTraPhong;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TinhTrangThanhToan;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
     }
 }

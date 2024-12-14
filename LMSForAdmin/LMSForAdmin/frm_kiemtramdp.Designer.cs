@@ -34,6 +34,7 @@
             this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
             this.textEdit4 = new DevExpress.XtraEditors.TextEdit();
@@ -49,7 +50,6 @@
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.svgImageBox1 = new DevExpress.XtraEditors.SvgImageBox();
-            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
@@ -83,6 +83,7 @@
             this.simpleButton2.Size = new System.Drawing.Size(128, 32);
             this.simpleButton2.TabIndex = 3;
             this.simpleButton2.Text = "Xoá";
+            this.simpleButton2.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // simpleButton1
             // 
@@ -91,6 +92,7 @@
             this.simpleButton1.Size = new System.Drawing.Size(139, 32);
             this.simpleButton1.TabIndex = 2;
             this.simpleButton1.Text = "Tìm kiếm";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // textEdit1
             // 
@@ -98,6 +100,7 @@
             this.textEdit1.Name = "textEdit1";
             this.textEdit1.Size = new System.Drawing.Size(286, 22);
             this.textEdit1.TabIndex = 1;
+            this.textEdit1.EditValueChanged += new System.EventHandler(this.textEdit1_EditValueChanged);
             // 
             // labelControl1
             // 
@@ -131,6 +134,16 @@
             this.groupControl2.Size = new System.Drawing.Size(452, 331);
             this.groupControl2.TabIndex = 1;
             this.groupControl2.Text = "Thông tin khách hàng";
+            this.groupControl2.Paint += new System.Windows.Forms.PaintEventHandler(this.groupControl2_Paint);
+            // 
+            // simpleButton5
+            // 
+            this.simpleButton5.Location = new System.Drawing.Point(314, 262);
+            this.simpleButton5.Name = "simpleButton5";
+            this.simpleButton5.Size = new System.Drawing.Size(133, 31);
+            this.simpleButton5.TabIndex = 16;
+            this.simpleButton5.Text = "Xoá";
+            this.simpleButton5.Click += new System.EventHandler(this.simpleButton5_Click);
             // 
             // simpleButton4
             // 
@@ -139,6 +152,7 @@
             this.simpleButton4.Size = new System.Drawing.Size(133, 31);
             this.simpleButton4.TabIndex = 15;
             this.simpleButton4.Text = "Cập nhật";
+            this.simpleButton4.Click += new System.EventHandler(this.simpleButton4_Click);
             // 
             // simpleButton3
             // 
@@ -147,6 +161,7 @@
             this.simpleButton3.Size = new System.Drawing.Size(133, 31);
             this.simpleButton3.TabIndex = 14;
             this.simpleButton3.Text = "Giao phòng";
+            this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
             // 
             // textEdit4
             // 
@@ -196,6 +211,7 @@
             this.textEdit3.Name = "textEdit3";
             this.textEdit3.Size = new System.Drawing.Size(168, 22);
             this.textEdit3.TabIndex = 9;
+            this.textEdit3.EditValueChanged += new System.EventHandler(this.textEdit3_EditValueChanged);
             // 
             // textEdit2
             // 
@@ -260,22 +276,16 @@
             this.svgImageBox1.TabIndex = 0;
             this.svgImageBox1.Text = "svgImageBox1";
             // 
-            // simpleButton5
-            // 
-            this.simpleButton5.Location = new System.Drawing.Point(314, 262);
-            this.simpleButton5.Name = "simpleButton5";
-            this.simpleButton5.Size = new System.Drawing.Size(133, 31);
-            this.simpleButton5.TabIndex = 16;
-            this.simpleButton5.Text = "Xoá";
-            // 
             // frm_kiemtramdp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(478, 488);
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.groupControl1);
             this.Name = "frm_kiemtramdp";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kiểm tra Mã Đặt Phòng";
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);

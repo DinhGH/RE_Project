@@ -45,7 +45,7 @@
             this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl8 = new DevExpress.XtraEditors.LabelControl();
             this.textEdit5 = new DevExpress.XtraEditors.TextEdit();
-            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.groupTTKH = new DevExpress.XtraEditors.GroupControl();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.textEdit1 = new DevExpress.XtraEditors.TextEdit();
             this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
@@ -59,8 +59,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.checkedComboBoxEdit1.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit5.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
-            this.groupControl2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupTTKH)).BeginInit();
+            this.groupTTKH.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
             this.groupControl1.SuspendLayout();
@@ -195,6 +195,7 @@
             this.simpleButton4.Size = new System.Drawing.Size(133, 31);
             this.simpleButton4.TabIndex = 15;
             this.simpleButton4.Text = "Cập nhật";
+            this.simpleButton4.Click += new System.EventHandler(this.simpleButton4_Click);
             // 
             // labelControl8
             // 
@@ -212,30 +213,31 @@
             this.textEdit5.Size = new System.Drawing.Size(152, 22);
             this.textEdit5.TabIndex = 18;
             // 
-            // groupControl2
+            // groupTTKH
             // 
-            this.groupControl2.Controls.Add(this.textEdit5);
-            this.groupControl2.Controls.Add(this.labelControl8);
-            this.groupControl2.Controls.Add(this.simpleButton4);
-            this.groupControl2.Controls.Add(this.simpleButton3);
-            this.groupControl2.Controls.Add(this.textEdit4);
-            this.groupControl2.Controls.Add(this.checkedComboBoxEdit1);
-            this.groupControl2.Controls.Add(this.dateTimeOffsetEdit2);
-            this.groupControl2.Controls.Add(this.dateTimeOffsetEdit1);
-            this.groupControl2.Controls.Add(this.textEdit3);
-            this.groupControl2.Controls.Add(this.textEdit2);
-            this.groupControl2.Controls.Add(this.labelControl4);
-            this.groupControl2.Controls.Add(this.labelControl7);
-            this.groupControl2.Controls.Add(this.labelControl6);
-            this.groupControl2.Controls.Add(this.labelControl5);
-            this.groupControl2.Controls.Add(this.labelControl3);
-            this.groupControl2.Controls.Add(this.labelControl2);
-            this.groupControl2.Controls.Add(this.svgImageBox1);
-            this.groupControl2.Location = new System.Drawing.Point(24, 137);
-            this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(452, 331);
-            this.groupControl2.TabIndex = 3;
-            this.groupControl2.Text = "Thông tin khách hàng";
+            this.groupTTKH.Controls.Add(this.textEdit5);
+            this.groupTTKH.Controls.Add(this.labelControl8);
+            this.groupTTKH.Controls.Add(this.simpleButton4);
+            this.groupTTKH.Controls.Add(this.simpleButton3);
+            this.groupTTKH.Controls.Add(this.textEdit4);
+            this.groupTTKH.Controls.Add(this.checkedComboBoxEdit1);
+            this.groupTTKH.Controls.Add(this.dateTimeOffsetEdit2);
+            this.groupTTKH.Controls.Add(this.dateTimeOffsetEdit1);
+            this.groupTTKH.Controls.Add(this.textEdit3);
+            this.groupTTKH.Controls.Add(this.textEdit2);
+            this.groupTTKH.Controls.Add(this.labelControl4);
+            this.groupTTKH.Controls.Add(this.labelControl7);
+            this.groupTTKH.Controls.Add(this.labelControl6);
+            this.groupTTKH.Controls.Add(this.labelControl5);
+            this.groupTTKH.Controls.Add(this.labelControl3);
+            this.groupTTKH.Controls.Add(this.labelControl2);
+            this.groupTTKH.Controls.Add(this.svgImageBox1);
+            this.groupTTKH.Location = new System.Drawing.Point(24, 137);
+            this.groupTTKH.Name = "groupTTKH";
+            this.groupTTKH.Size = new System.Drawing.Size(452, 331);
+            this.groupTTKH.TabIndex = 3;
+            this.groupTTKH.Text = "Thông tin khách hàng";
+            this.groupTTKH.Paint += new System.Windows.Forms.PaintEventHandler(this.groupTTKH_Paint);
             // 
             // labelControl1
             // 
@@ -260,6 +262,7 @@
             this.simpleButton1.Size = new System.Drawing.Size(139, 32);
             this.simpleButton1.TabIndex = 2;
             this.simpleButton1.Text = "Tìm kiếm";
+            this.simpleButton1.Click += new System.EventHandler(this.simpleButton1_Click);
             // 
             // simpleButton2
             // 
@@ -285,10 +288,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(492, 488);
-            this.Controls.Add(this.groupControl2);
+            this.Controls.Add(this.groupTTKH);
             this.Controls.Add(this.groupControl1);
             this.Name = "frm_inhoadon";
             this.Text = "In hoá đơn";
+            this.Load += new System.EventHandler(this.frm_inhoadon_Load);
             ((System.ComponentModel.ISupportInitialize)(this.svgImageBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit2.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit3.Properties)).EndInit();
@@ -297,9 +301,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.checkedComboBoxEdit1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit4.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit5.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
-            this.groupControl2.ResumeLayout(false);
-            this.groupControl2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupTTKH)).EndInit();
+            this.groupTTKH.ResumeLayout(false);
+            this.groupTTKH.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.textEdit1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
             this.groupControl1.ResumeLayout(false);
@@ -326,7 +330,7 @@
         private DevExpress.XtraEditors.SimpleButton simpleButton4;
         private DevExpress.XtraEditors.LabelControl labelControl8;
         private DevExpress.XtraEditors.TextEdit textEdit5;
-        private DevExpress.XtraEditors.GroupControl groupControl2;
+        private DevExpress.XtraEditors.GroupControl groupTTKH;
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.TextEdit textEdit1;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;

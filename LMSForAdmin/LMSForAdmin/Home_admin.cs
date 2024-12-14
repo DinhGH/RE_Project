@@ -8,11 +8,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraBars;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace LMSForAdmin
 {
     public partial class Home_admin : DevExpress.XtraBars.Ribbon.RibbonForm
     {
+        private frm_dschecked_in frmCheckIn;
+        private frm_dsdatphong frmDSDatPhong;
+        private frm_dscheck_out frmCheckOut;
+        private frm_qldichvu frmQldichvu;
+        private frm_qldsphongdat frmQlPhongdat;
+        private frm_qldsphongtrong frmQlPhongtrong;
+        private frm_inhoadon frm_Inhoadon;
+        private frm_kiemtramdp frmKtraMDP;
         public Home_admin()
         {
             InitializeComponent();
@@ -25,7 +34,20 @@ namespace LMSForAdmin
             frm_Sodophong.MdiParent = this;
             frm_Sodophong.Show();
         }
-
+        private void OpenOrActivateForm<T>(ref T formInstance) where T : Form, new()
+        {
+            if (formInstance == null || formInstance.IsDisposed)
+            {
+                // Tạo mới nếu form chưa tồn tại hoặc đã bị đóng
+                formInstance = new T { MdiParent = this };
+                formInstance.Show();
+            }
+            else
+            {
+                // Nếu đã mở, kích hoạt lại
+                formInstance.Activate();
+            }
+        }
         private void Home_admin_Load(object sender, EventArgs e)
         {
 
@@ -79,50 +101,60 @@ namespace LMSForAdmin
 
         private void barButtonItem10_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_kiemtramdp frm_Kiemtramdp = new frm_kiemtramdp();
-            frm_Kiemtramdp.Show(); 
+
+            OpenOrActivateForm(ref frmKtraMDP);
         }
 
         private void barButtonItem12_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_dsdatphong frm_Dsdatphong = new frm_dsdatphong(); 
-            frm_Dsdatphong.Show();
+            OpenOrActivateForm(ref frmDSDatPhong);
+
+            if (frmCheckIn == null || frmCheckIn.IsDisposed)
+            {
+                frmCheckIn = new frm_dschecked_in();
+                frmCheckIn.MdiParent = this;
+                frmCheckIn.Show();
+            }
         }
 
         private void barButtonItem13_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_dschecked_in frm_Dschecked_In = new frm_dschecked_in(); 
-            frm_Dschecked_In.Show();
+
+            OpenOrActivateForm(ref frmCheckIn);
         }
 
         private void barButtonItem14_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_dscheck_out frm_Dscheck_Out = new frm_dscheck_out();
-            frm_Dscheck_Out.Show();
+
+            OpenOrActivateForm(ref frmCheckOut);
+
         }
 
         private void barButtonItem15_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_qldsphongtrong frm_Qldsphongtrong = new frm_qldsphongtrong();
-            frm_Qldsphongtrong.Show();
+            
+            
+            OpenOrActivateForm(ref frmQlPhongtrong);
         }
 
         private void barButtonItem16_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_qldsphongdat frm_Qldsphongdat = new frm_qldsphongdat();
-            frm_Qldsphongdat.Show();
+
+            OpenOrActivateForm(ref frmQlPhongdat);
         }
 
         private void barButtonItem18_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_qldichvu frm_Qldichvu = new frm_qldichvu();
-            frm_Qldichvu.Show();
+            
+            
+            OpenOrActivateForm(ref frmQldichvu);
         }
 
         private void I_ItemClick(object sender, ItemClickEventArgs e)
         {
-            frm_inhoadon frm_Inhoadon = new frm_inhoadon();
-            frm_Inhoadon.Show();   
+
+            OpenOrActivateForm(ref frm_Inhoadon);
+        }
+        
         }
     }
-}

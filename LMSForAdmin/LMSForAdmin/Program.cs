@@ -17,6 +17,7 @@ namespace LMSForAdmin
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frm_dangnhap());
+            Application.Run(new frm_dsdatphong(new frm_dschecked_in()));
         }
     }
 }
