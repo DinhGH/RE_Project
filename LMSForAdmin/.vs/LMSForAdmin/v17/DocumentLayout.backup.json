@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "X:\\Requiremet_project\\LMSForAdmin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|x:\\requiremet_project\\lmsforadmin\\lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|X:\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -70,22 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home_admin.cs [Design]",
               "DocumentMoniker": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\Home_admin.cs",
-              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs [Design]",
+              "ToolTip": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\Home_admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T11:38:26.514Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frm_dsdatphong.cs [Design]",
               "DocumentMoniker": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsdatphong.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_dsdatphong.cs",
@@ -97,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frm_dscheck-out.cs [Design]",
               "DocumentMoniker": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dscheck-out.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_dscheck-out.cs",
@@ -107,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frm_dschecked-in.cs [Design]",
               "DocumentMoniker": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dschecked-in.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_dschecked-in.cs",
@@ -149,15 +151,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Home_admin.cs",
               "DocumentMoniker": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\Home_admin.cs",
               "ToolTip": "X:\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
               "RelativeToolTip": "LMSForAdmin\\Home_admin.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAtwHwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAIAxwEcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:45:42.051Z"
+              "WhenOpened": "2024-12-06T11:45:42.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
