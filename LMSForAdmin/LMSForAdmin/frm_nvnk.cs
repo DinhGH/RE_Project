@@ -17,15 +17,20 @@ namespace LMSForAdmin
         {
             InitializeComponent();
         }
+        private void labelControl5_Click(object sender, EventArgs e)
+        {
 
-        private void simpleButton2_Click(object sender, EventArgs e)
+        }
+frm_qlk frm_Qlk = new frm_qlk();
+            frm_Qlk.Show();
+        private void simpleButton2_Click_1(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void labelControl5_Click(object sender, EventArgs e)
+        private void simpleButton3_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

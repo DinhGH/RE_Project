@@ -17,5 +17,15 @@ namespace LMSForAdmin
         {
             InitializeComponent();
         }
+
+        private void frm_tbc_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

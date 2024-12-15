@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DevExpress.XtraEditors;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,13 +8,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DevExpress.XtraEditors;
 
 namespace LMSForAdmin
 {
-    public partial class frm_quanlibcsc : DevExpress.XtraEditors.XtraForm
+    public partial class frm_tpcdd : DevExpress.XtraEditors.XtraForm
     {
-        public frm_quanlibcsc()
+        public frm_tpcdd()
         {
             InitializeComponent();
         }

@@ -156,7 +156,6 @@ D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_phongcandondep.r
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
-D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_quanlibcsc.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sodophong.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuathang.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.Home_admin.resources
@@ -171,8 +170,16 @@ D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nvnk.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nvqlbcsc.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_nvqlycdvckh.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsdptc.resources
-D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldspdcdon.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qlk.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qlyctdv.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xembc.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xk.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_tbc.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xoabc.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuabc.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_sycdv.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_tpcdd.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_tycdv.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xemycdv.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xpcdd.resources
+D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuapcdd.resources

@@ -11,11 +11,16 @@ using System.Windows.Forms;
 
 namespace LMSForAdmin
 {
-    public partial class frm_qldspdcdon : DevExpress.XtraEditors.XtraForm
+    public partial class frm_xuabc : DevExpress.XtraEditors.XtraForm
     {
-        public frm_qldspdcdon()
+        public frm_xuabc()
         {
             InitializeComponent();
+        }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

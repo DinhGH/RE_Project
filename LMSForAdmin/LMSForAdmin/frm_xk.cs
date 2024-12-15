@@ -22,5 +22,11 @@ namespace LMSForAdmin
         {
             this.Close();
         }
+
+        private void simpleButton3_Click(object sender, EventArgs e)
+        {
+            frm_qlk frm_Qlk = new frm_qlk();
+            frm_Qlk.Show();
+        }
     }
 }

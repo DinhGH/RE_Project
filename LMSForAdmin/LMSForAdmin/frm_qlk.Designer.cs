@@ -39,12 +39,14 @@
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column7 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // simpleButton1
             // 
-            this.simpleButton1.Location = new System.Drawing.Point(112, 190);
+            this.simpleButton1.Location = new System.Drawing.Point(79, 190);
             this.simpleButton1.Name = "simpleButton1";
             this.simpleButton1.Size = new System.Drawing.Size(87, 45);
             this.simpleButton1.TabIndex = 5;
@@ -57,7 +59,7 @@
             this.simpleButton2.Name = "simpleButton2";
             this.simpleButton2.Size = new System.Drawing.Size(87, 45);
             this.simpleButton2.TabIndex = 6;
-            this.simpleButton2.Text = "Đóng";
+            this.simpleButton2.Text = "Thoát";
             this.simpleButton2.Click += new System.EventHandler(this.simpleButton2_Click);
             // 
             // dataGridView1
@@ -114,18 +116,36 @@
             // 
             // simpleButton3
             // 
-            this.simpleButton3.Location = new System.Drawing.Point(381, 190);
+            this.simpleButton3.Location = new System.Drawing.Point(234, 190);
             this.simpleButton3.Name = "simpleButton3";
             this.simpleButton3.Size = new System.Drawing.Size(87, 45);
             this.simpleButton3.TabIndex = 9;
             this.simpleButton3.Text = "Xuất Kho";
             this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
             // 
+            // simpleButton4
+            // 
+            this.simpleButton4.Location = new System.Drawing.Point(388, 190);
+            this.simpleButton4.Name = "simpleButton4";
+            this.simpleButton4.Size = new System.Drawing.Size(87, 45);
+            this.simpleButton4.TabIndex = 10;
+            this.simpleButton4.Text = "Sửa";
+            // 
+            // simpleButton5
+            // 
+            this.simpleButton5.Location = new System.Drawing.Point(530, 190);
+            this.simpleButton5.Name = "simpleButton5";
+            this.simpleButton5.Size = new System.Drawing.Size(87, 45);
+            this.simpleButton5.TabIndex = 11;
+            this.simpleButton5.Text = "Xóa";
+            // 
             // frm_qlk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(833, 268);
+            this.Controls.Add(this.simpleButton5);
+            this.Controls.Add(this.simpleButton4);
             this.Controls.Add(this.simpleButton3);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.simpleButton2);
@@ -150,5 +170,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column7;
+        private DevExpress.XtraEditors.SimpleButton simpleButton4;
+        private DevExpress.XtraEditors.SimpleButton simpleButton5;
     }
 }

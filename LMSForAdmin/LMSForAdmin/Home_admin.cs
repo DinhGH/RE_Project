@@ -69,7 +69,7 @@ namespace LMSForAdmin
         private void barButtonItem6_ItemClick(object sender, ItemClickEventArgs e)
         {
             xtraTabbedMdiManager1.MdiParent = this;
-            frm_dsycdv frm_Dsycdv = new frm_dsycdv();
+            frm_nvqlycdvckh frm_Dsycdv = new frm_nvqlycdvckh();
             frm_Dsycdv.MdiParent = this;
             frm_Dsycdv.Show();
 
@@ -78,7 +78,7 @@ namespace LMSForAdmin
         private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
         {
             xtraTabbedMdiManager1.MdiParent = this;
-            frm_quanlibcsc frm_Quanlibcsc = new frm_quanlibcsc();
+            frm_nvqlbcsc frm_Quanlibcsc = new frm_nvqlbcsc();
             frm_Quanlibcsc.MdiParent = this;
             frm_Quanlibcsc.Show();
         }
@@ -86,7 +86,7 @@ namespace LMSForAdmin
         private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
         {
             xtraTabbedMdiManager1.MdiParent = this;
-            frm_xuathang frm_Xuathang = new frm_xuathang();
+            frm_xk frm_Xuathang = new frm_xk();
             frm_Xuathang.MdiParent = this;
             frm_Xuathang.Show();
         }
@@ -94,7 +94,7 @@ namespace LMSForAdmin
         private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
         {
             xtraTabbedMdiManager1.MdiParent = this;
-            frm_nhaphang frm_Nhaphang = new frm_nhaphang();
+            frm_nvnk frm_Nhaphang = new frm_nvnk();
             frm_Nhaphang.MdiParent = this;
             frm_Nhaphang.Show();
         }
@@ -155,6 +155,11 @@ namespace LMSForAdmin
 
             OpenOrActivateForm(ref frm_Inhoadon);
         }
-        
+
+        private void ribbon_Click(object sender, EventArgs e)
+        {
+
         }
+
     }
+}
