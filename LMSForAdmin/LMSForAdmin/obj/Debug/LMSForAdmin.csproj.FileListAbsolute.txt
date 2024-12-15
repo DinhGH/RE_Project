@@ -108,6 +108,7 @@ C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug
 C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldichvu.resources
 C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongdat.resources
 C:\Users\thuan\source\repos\Requiremet_project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_qldsphongtrong.resources
+<<<<<<< HEAD
 D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe.config
 D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.exe
 D:\RE_Project\LMSForAdmin\LMSForAdmin\bin\Debug\LMSForAdmin.pdb
@@ -183,3 +184,5 @@ D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_tycdv.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xemycdv.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xpcdd.resources
 D:\RE_Project\LMSForAdmin\LMSForAdmin\obj\Debug\LMSForAdmin.frm_xuapcdd.resources
+=======
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39

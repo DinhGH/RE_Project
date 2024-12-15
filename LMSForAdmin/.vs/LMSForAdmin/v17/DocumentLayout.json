@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RE_Project\\LMSForAdmin\\",
+  "WorkspaceRootPath": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|D:\\RE_Project\\LMSForAdmin\\lmsforadmin\\frm_xk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_xk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -97,6 +98,106 @@
     {
       "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|D:\\RE_Project\\LMSForAdmin\\lmsforadmin\\frm_qldsdptc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldsdptc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|c:\\users\\thuan\\source\\repos\\requiremet_project\\lmsforadmin\\lmsforadmin\\frm_qldsphongtrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldsphongtrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_qldsphongtrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldsphongtrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dsdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_qldsphongdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldsphongdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_qldsphongdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldsphongdat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\home_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_qldichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_qldichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_qldichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dscheck-out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dscheck-out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dscheck-out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dscheck-out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dschecked-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_kiemtramdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_kiemtramdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dsycdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dsycdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_quanlibcsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_quanlibcsc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_phongcandondep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_phongcandondep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_inhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_kiemtramdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_kiemtramdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_xuathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_xuathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\lmsforadmin\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B04D60B8-895E-4041-8C9C-AB9081D90C71}|LMSForAdmin\\LMSForAdmin.csproj|solutionrelative:lmsforadmin\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
     }
   ],
   "DocumentGroupContainers": [
@@ -106,18 +207,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 19,
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
+=======
+              "DocumentIndex": 4,
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "Title": "Home_admin.cs [Design]",
-              "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\Home_admin.cs",
-              "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs [Design]",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs [Design]",
               "RelativeToolTip": "LMSForAdmin\\Home_admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T11:38:26.514Z",
+<<<<<<< HEAD
               "IsPinned": true,
               "EditorCaption": " [Design]"
             },
@@ -157,10 +279,25 @@
               "RelativeToolTip": "LMSForAdmin\\frm_qlsdp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T09:30:21.657Z",
+=======
               "IsPinned": true
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_dsdatphong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsdatphong.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dsdatphong.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsdatphong.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_dsdatphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:08:49.317Z",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "frm_nvnk.cs",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_nvnk.cs",
@@ -311,10 +448,22 @@
               "ViewState": "AgIAABMAAAAAAAAAAAAUwBwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T06:22:43.92Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "frm_qldsphongtrong.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongtrong.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldsphongtrong.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongtrong.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldsphongtrong.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwLIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:19:48.567Z",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "frm_nvnk.cs [Design]",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_nvnk.cs",
@@ -323,10 +472,21 @@
               "RelativeToolTip": "LMSForAdmin\\frm_nvnk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T05:19:33.481Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "frm_qldsphongtrong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongtrong.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldsphongtrong.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongtrong.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldsphongtrong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:04:31.541Z",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "frm_xk.cs [Design]",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xk.cs",
@@ -357,41 +517,272 @@
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_nvxbdp.cs",
               "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_nvxbdp.cs [Design]",
               "RelativeToolTip": "LMSForAdmin\\frm_nvxbdp.cs [Design]",
+=======
+              "DocumentIndex": 2,
+              "Title": "frm_dsdatphong.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsdatphong.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dsdatphong.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsdatphong.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_dsdatphong.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAArwLoAAAANAAAAAAAAAA==",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:20:25.36Z"
+              "WhenOpened": "2024-12-13T14:30:59.137Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 23,
               "Title": "frm_qldsdptc.cs [Design]",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qldsdptc.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldsdptc.cs",
               "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qldsdptc.cs [Design]",
               "RelativeToolTip": "LMSForAdmin\\frm_qldsdptc.cs [Design]",
+=======
+              "DocumentIndex": 5,
+              "Title": "frm_qldsphongdat.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongdat.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldsphongdat.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongdat.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldsphongdat.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAEwLUAAAAJAAAAAAAAAA==",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:11:13.3Z"
+              "WhenOpened": "2024-12-11T05:09:49.901Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 22,
               "Title": "frm_qlyctdv.cs [Design]",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qlyctdv.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\frm_qlyctdv.cs",
               "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qlyctdv.cs [Design]",
               "RelativeToolTip": "LMSForAdmin\\frm_qlyctdv.cs [Design]",
+=======
+              "DocumentIndex": 6,
+              "Title": "frm_qldsphongdat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongdat.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldsphongdat.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldsphongdat.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldsphongdat.cs [Design]",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:10:29.118Z"
+              "WhenOpened": "2024-12-13T15:23:28.066Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 15,
+              "Title": "frm_qldichvu.cs [Design]",
+              "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs",
+=======
+              "DocumentIndex": 7,
+              "Title": "Home_admin.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\Home_admin.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
+              "RelativeToolTip": "LMSForAdmin\\Home_admin.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAvwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:45:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_qldichvu.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldichvu.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldichvu.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwMQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:32:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_qldichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldichvu.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_qldichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:25:08.636Z"
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_dscheck-out.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dscheck-out.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dscheck-out.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dscheck-out.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_dscheck-out.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:37:35.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_dscheck-out.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dscheck-out.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dscheck-out.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dscheck-out.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_dscheck-out.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:29:07.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_dschecked-in.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dschecked-in.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dschecked-in.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dschecked-in.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_dschecked-in.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswCgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:18:44.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_dschecked-in.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dschecked-in.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dschecked-in.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dschecked-in.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_dschecked-in.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:18:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_kiemtramdp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_kiemtramdp.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_kiemtramdp.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_kiemtramdp.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_kiemtramdp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:17:56.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "frm_qldichvu.cs [Design]",
-              "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs",
-              "RelativeDocumentMoniker": "LMSForAdmin\\frm_qldichvu.cs",
-              "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_qldichvu.cs [Design]",
-              "RelativeToolTip": "LMSForAdmin\\frm_qldichvu.cs [Design]",
+              "Title": "frm_dsycdv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsycdv.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dsycdv.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dsycdv.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_dsycdv.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:25:08.636Z"
+              "WhenOpened": "2024-12-13T15:36:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_quanlibcsc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_quanlibcsc.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_quanlibcsc.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_quanlibcsc.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_quanlibcsc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:12:19.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_inhoadon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_inhoadon.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_inhoadon.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_inhoadon.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_inhoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:16:53.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_phongcandondep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_phongcandondep.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_phongcandondep.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_phongcandondep.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_phongcandondep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:44:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frm_inhoadon.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_inhoadon.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_inhoadon.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_inhoadon.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_inhoadon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:19:40.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frm_kiemtramdp.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_kiemtramdp.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_kiemtramdp.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_kiemtramdp.cs",
+              "RelativeToolTip": "LMSForAdmin\\frm_kiemtramdp.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAlwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:42:24.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frm_nhaphang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_nhaphang.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_nhaphang.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_nhaphang.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_nhaphang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:34:58.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\Program.cs",
+              "RelativeToolTip": "LMSForAdmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:05:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frm_xuathang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_xuathang.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_xuathang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:44:39.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frm_dangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dangnhap.cs",
+              "RelativeDocumentMoniker": "LMSForAdmin\\frm_dangnhap.cs",
+              "ToolTip": "C:\\Users\\thuan\\source\\repos\\Requiremet_project\\LMSForAdmin\\LMSForAdmin\\frm_dangnhap.cs [Design]",
+              "RelativeToolTip": "LMSForAdmin\\frm_dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:08:20.893Z"
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
             }
           ]
         }

@@ -4,6 +4,10 @@
     "\\LMSForAdmin",
     "\\LMSForAdmin\\LMSForAdmin"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\LMSForAdmin\\LMSForAdmin\\Home_admin.cs",
+=======
+  "SelectedNode": "\\LMSForAdmin\\LMSForAdmin\\frm_inhoadon.cs",
+>>>>>>> 592db2a3b00ef7e8b8b075fa248ce450e61f6e39
   "PreviewInSolutionExplorer": false
 }
