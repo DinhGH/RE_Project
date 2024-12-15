@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\RE_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,38 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frm_xuathang.cs",
-              "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs",
-              "RelativeDocumentMoniker": "LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs",
-              "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs",
-              "RelativeToolTip": "LMSForAdmin\\LMSForAdmin\\frm_xuathang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T01:14:49.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_xuathang.Designer.cs",
-              "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs",
-              "RelativeDocumentMoniker": "LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs",
-              "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs",
-              "RelativeToolTip": "LMSForAdmin\\LMSForAdmin\\frm_xuathang.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T01:14:43.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Home_admin.Designer.cs",
               "DocumentMoniker": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs",
               "RelativeDocumentMoniker": "LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs",
               "ToolTip": "D:\\RE_Project\\LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs",
               "RelativeToolTip": "LMSForAdmin\\LMSForAdmin\\Home_admin.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T01:12:02.73Z",
               "EditorCaption": ""
