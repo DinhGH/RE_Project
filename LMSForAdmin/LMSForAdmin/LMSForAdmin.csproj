@@ -104,47 +104,11 @@
     <Compile Include="frm_nhaphang.Designer.cs">
       <DependentUpon>frm_nhaphang.cs</DependentUpon>
     </Compile>
-    <Compile Include="frm_nvnk.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_nvnk.Designer.cs">
-      <DependentUpon>frm_nvnk.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_nvqlbcsc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_nvqlbcsc.Designer.cs">
-      <DependentUpon>frm_nvqlbcsc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_nvqlycdvckh.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_nvqlycdvckh.Designer.cs">
-      <DependentUpon>frm_nvqlycdvckh.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_nvxbdp.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_nvxbdp.Designer.cs">
-      <DependentUpon>frm_nvxbdp.cs</DependentUpon>
-    </Compile>
     <Compile Include="frm_qldichvu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_qldichvu.Designer.cs">
       <DependentUpon>frm_qldichvu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_qldsdptc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_qldsdptc.Designer.cs">
-      <DependentUpon>frm_qldsdptc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_qldspdcdon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_qldspdcdon.Designer.cs">
-      <DependentUpon>frm_qldspdcdon.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_qldsphongdat.cs">
       <SubType>Form</SubType>
@@ -158,18 +122,6 @@
     <Compile Include="frm_qldsphongtrong.Designer.cs">
       <DependentUpon>frm_qldsphongtrong.cs</DependentUpon>
     </Compile>
-    <Compile Include="frm_qlk.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_qlk.Designer.cs">
-      <DependentUpon>frm_qlk.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_qlyctdv.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_qlyctdv.Designer.cs">
-      <DependentUpon>frm_qlyctdv.cs</DependentUpon>
-    </Compile>
     <Compile Include="frm_quanlibcsc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -181,30 +133,6 @@
     </Compile>
     <Compile Include="frm_sodophong.Designer.cs">
       <DependentUpon>frm_sodophong.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_tbc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_tbc.Designer.cs">
-      <DependentUpon>frm_tbc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_xbc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_xbc.Designer.cs">
-      <DependentUpon>frm_xbc.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_xk.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_xk.Designer.cs">
-      <DependentUpon>frm_xk.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frm_xoabc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_xoabc.Designer.cs">
-      <DependentUpon>frm_xoabc.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_xuathang.cs">
       <SubType>Form</SubType>
@@ -250,26 +178,11 @@
     <EmbeddedResource Include="frm_nhaphang.resx">
       <DependentUpon>frm_nhaphang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frm_nvnk.resx">
-      <DependentUpon>frm_nvnk.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_nvqlbcsc.resx">
-      <DependentUpon>frm_nvqlbcsc.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_nvqlycdvckh.resx">
-      <DependentUpon>frm_nvqlycdvckh.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frm_phongcandondep.resx">
       <DependentUpon>frm_phongcandondep.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_qldichvu.resx">
       <DependentUpon>frm_qldichvu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_qldsdptc.resx">
-      <DependentUpon>frm_qldsdptc.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_qldspdcdon.resx">
-      <DependentUpon>frm_qldspdcdon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_qldsphongdat.resx">
       <DependentUpon>frm_qldsphongdat.cs</DependentUpon>
@@ -277,23 +190,11 @@
     <EmbeddedResource Include="frm_qldsphongtrong.resx">
       <DependentUpon>frm_qldsphongtrong.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frm_qlk.resx">
-      <DependentUpon>frm_qlk.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_qlyctdv.resx">
-      <DependentUpon>frm_qlyctdv.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frm_quanlibcsc.resx">
       <DependentUpon>frm_quanlibcsc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_sodophong.resx">
       <DependentUpon>frm_sodophong.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_xbc.resx">
-      <DependentUpon>frm_xbc.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_xk.resx">
-      <DependentUpon>frm_xk.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_xuathang.resx">
       <DependentUpon>frm_xuathang.cs</DependentUpon>

@@ -109,12 +109,6 @@ namespace LMSForAdmin
         {
             OpenOrActivateForm(ref frmDSDatPhong);
 
-            if (frmCheckIn == null || frmCheckIn.IsDisposed)
-            {
-                frmCheckIn = new frm_dschecked_in();
-                frmCheckIn.MdiParent = this;
-                frmCheckIn.Show();
-            }
         }
 
         private void barButtonItem13_ItemClick(object sender, ItemClickEventArgs e)
